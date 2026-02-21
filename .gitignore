@@ -1,0 +1,10 @@
+# compiled binary
+hasstool
+
+# Go build cache
+*.test
+*.out
+
+# Environment / secrets
+.env
+.envrc
