@@ -4,6 +4,14 @@ A fast, standalone CLI for [Home Assistant](https://www.home-assistant.io/). Sup
 
 ## Installation
 
+### go install
+
+```bash
+go install github.com/Darkflib/hasstool@latest
+```
+
+The binary will be placed in `$GOPATH/bin` (typically `~/go/bin`). Make sure that's on your `$PATH`.
+
 ### Build from source
 
 Requires [Go 1.21+](https://go.dev/dl/).
