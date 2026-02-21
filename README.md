@@ -9,7 +9,7 @@ A fast, standalone CLI for [Home Assistant](https://www.home-assistant.io/). Sup
 Requires [Go 1.21+](https://go.dev/dl/).
 
 ```bash
-git clone https://github.com/your-username/hasstool
+git clone https://github.com/Darkflib/hasstool
 cd hasstool
 go build -o hasstool .
 ```
